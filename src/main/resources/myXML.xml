@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<customers>
+  <customer id="1">
+    <name>Carly Gonzales</name>
+    <phone>+1 (851) 452-2139</phone>
+    <age>55</age>
+    <balance>1145.19</balance>
+    <active>true</active>
+    <about><![CDATA[Lorem proident sunt occaecat nulla dolor adipisicing Lorem amet proident nisi id. Aliqua id eiusmod anim irure aute eu aliquip velit laboris aute do fugiat labore. Tempor tempor et nostrud sint ad enim incididunt.
+]]></about>
+    <joined>03/05/2005</joined>
+  </customer>
+  <customer id="2">
+    <name>Taylor Moon</name>
+    <phone>+1 (983) 574-2205</phone>
+    <age>54</age>
+    <balance>2318.30</balance>
+    <active>true</active>
+    <about><![CDATA[Nisi cupidatat veniam consectetur anim duis fugiat consequat cupidatat dolor velit. Commodo voluptate voluptate cupidatat ex et esse. Minim anim veniam est magna. Officia adipisicing ut velit eiusmod anim ea ut consectetur ex qui commodo consequat sint laboris. Non velit incididunt ullamco laboris et eu esse aliquip non ad.
+]]></about>
+    <joined>05/25/2000</joined>
+  </customer>
+  <customer id="3">
+    <name>Lynda Bird</name>
+    <phone>+1 (967) 420-2969</phone>
+    <age>58</age>
+    <balance>2676.25</balance>
+    <active>false</active>
+    <about><![CDATA[Excepteur ex culpa exercitation Lorem. Nisi ipsum elit exercitation consectetur reprehenderit esse duis ullamco exercitation pariatur in do anim. Tempor aute laborum aute deserunt Lorem occaecat labore aliquip incididunt dolor. Reprehenderit commodo veniam ad quis fugiat consectetur consectetur. Eu anim sint culpa occaecat mollit laborum duis mollit consectetur dolore qui in est officia.
+]]></about>
+    <joined>09/28/1990</joined>
+  </customer>
+  <customer id="4">
+    <name>Deirdre Green</name>
+    <phone>+1 (818) 493-2481</phone>
+    <age>42</age>
+    <balance>2988.91</balance>
+    <active>true</active>
+    <about><![CDATA[Ex ut fugiat ex aliquip ex. Nostrud ullamco dolore minim deserunt excepteur ex anim id. Cillum eiusmod mollit exercitation fugiat. Id quis elit do cillum consequat consectetur ut ut.
+]]></about>
+    <joined>11/07/2003</joined>
+  </customer>
+  <customer id="5">
+    <name>Lee Lindsey</name>
+    <phone>+1 (913) 451-2243</phone>
+    <age>50</age>
+    <balance>3350.71</balance>
+    <active>false</active>
+    <about><![CDATA[Enim et ut non fugiat. Occaecat aute sint nisi ut occaecat duis excepteur amet. Proident nisi laborum eu do. Enim officia nulla occaecat pariatur quis cupidatat aliquip duis tempor incididunt quis elit aute. Ut minim pariatur aute ad enim proident sit veniam aute ea veniam. Veniam fugiat commodo nulla magna sint cillum.
+]]></about>
+    <joined>06/12/2007</joined>
+  </customer>
+  <customer id="6">
+    <name>Ilene Spears</name>
+    <phone>+1 (928) 455-3888</phone>
+    <age>40</age>
+    <balance>2124.94</balance>
+    <active>false</active>
+    <about><![CDATA[Laborum amet cupidatat aliquip consectetur. Elit cillum adipisicing deserunt consectetur nisi esse sunt Lorem pariatur. Ea adipisicing anim consectetur eiusmod excepteur veniam tempor anim. Cupidatat quis aliqua ea aliqua consequat. Commodo laboris ex laborum deserunt consectetur.
+]]></about>
+    <joined>06/20/1988</joined>
+  </customer>
+  <customer id="7">
+    <name>Skinner Reyes</name>
+    <phone>+1 (878) 427-3848</phone>
+    <age>40</age>
+    <balance>1316.54</balance>
+    <active>true</active>
+    <about><![CDATA[Dolore sint anim incididunt voluptate eu minim consequat eiusmod duis excepteur. Sit id tempor sint commodo ullamco veniam. Aliqua voluptate do elit Lorem eu qui consequat mollit anim quis cillum qui laboris. Fugiat reprehenderit commodo ad sunt commodo eu pariatur nostrud laborum qui ut. Deserunt ullamco nulla nostrud quis mollit ex do nulla. Sunt culpa qui quis pariatur cupidatat reprehenderit. Incididunt nostrud reprehenderit Lorem ipsum quis amet eiusmod minim.
+]]></about>
+    <joined>04/09/2013</joined>
+  </customer>
+  <customer id="8">
+    <name>Jewell Sawyer</name>
+    <phone>+1 (967) 414-2863</phone>
+    <age>34</age>
+    <balance>1231.71</balance>
+    <active>true</active>
+    <about><![CDATA[Cupidatat id labore cillum culpa incididunt irure laborum ut culpa do exercitation sint labore. Sint consectetur id voluptate aliquip qui proident do. Occaecat et adipisicing cillum et ea anim pariatur.
+]]></about>
+    <joined>12/25/2001</joined>
+  </customer>
+  <customer id="9">
+    <name>Leona Henderson</name>
+    <phone>+1 (848) 488-2079</phone>
+    <age>21</age>
+    <balance>3689.42</balance>
+    <active>false</active>
+    <about><![CDATA[Consequat magna laboris cillum elit magna eu fugiat reprehenderit dolor laborum. Exercitation deserunt non reprehenderit est et ad non adipisicing elit irure. Id excepteur velit consequat duis commodo et. Consequat Lorem anim adipisicing sunt qui ut nostrud nisi aliquip culpa sit laborum laborum. Ullamco consectetur aliqua ullamco quis excepteur aute sunt eiusmod esse consequat sint eu nulla nostrud.
+]]></about>
+    <joined>10/04/2010</joined>
+  </customer>
+  <customer id="10">
+    <name>Schultz Sandoval</name>
+    <phone>+1 (993) 597-2225</phone>
+    <age>63</age>
+    <balance>3447.45</balance>
+    <active>true</active>
+    <about><![CDATA[Cillum do veniam reprehenderit deserunt aliqua amet aliquip id exercitation minim. Velit Lorem culpa anim ullamco eu officia adipisicing culpa. Velit occaecat eiusmod labore amet sint ipsum ex sit. Incididunt non aute amet veniam sunt nulla.
+]]></about>
+    <joined>05/28/2012</joined>
+  </customer>
+</customers>
